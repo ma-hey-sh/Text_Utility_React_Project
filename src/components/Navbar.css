@@ -1,0 +1,11 @@
+.check {
+    height: 30px !important;
+    width: 50px !important;
+    margin-right: 8px !important;
+}
+
+.title {
+    font-weight: 600;
+    font-size: xx-large !important;
+    margin-left: 15px;
+}
